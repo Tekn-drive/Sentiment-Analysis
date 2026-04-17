@@ -1,6 +1,9 @@
 # Sentiment Analysis
 This simple React JS based web application explores the power of NLP technology to classify sentiment based on the provided thoughts. 
 
+## 📸 Demo
+<img width="1366" height="686" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/36f5b9c2-0d19-4007-89e7-1c5d8e5b5f7b" />
+
 ## 🚀 Features
 - Text sentiment classification
 - Confidence score output
